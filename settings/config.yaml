@@ -1,0 +1,24 @@
+
+
+wsPortNo: 8080
+
+scale1AppendCR: true
+alibiMemory: false
+scale1WeightRequest: WT
+scale1UseAlibi: false
+scale1AlibiRequest: FS
+
+scale1SerialConnection: true
+scale1ComPort: COM1
+scale1BaudRate: 9600
+scale1Parity: none
+scale1DataBits: 8
+scale1StopBits: 1
+
+
+scale1Network: false
+scale1IPAddress: 10.0.0.100
+scale1PortNumber: 3000
+
+
+
